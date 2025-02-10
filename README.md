@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Chilliope
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ExpressJS
-- ⚡ SMKN 2 Banjarmasin | PPLG 2022
-- 🦅 DO MORE
+Gabisa Ngoding 
 
 <!---
 Chilliope/Chilliope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
