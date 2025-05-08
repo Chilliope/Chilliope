@@ -3,9 +3,9 @@
 ![Erlang Andriyanputra](img/banner.png)
 ![Hello? - Clairo, Rejjie Snow](img/spotify2.png)
 
-!['details'](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chilliope&theme=solarized) 
+<!-- !['details'](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chilliope&theme=solarized) 
 !['repo'](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chilliope&theme=solarized) !['repo2'](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chilliope&theme=solarized)
-!['stats'](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chilliope&theme=solarized) !['commit'](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chilliope&theme=solarized)
+!['stats'](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chilliope&theme=solarized) !['commit'](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chilliope&theme=solarized) -->
 
 ### Tools
 
