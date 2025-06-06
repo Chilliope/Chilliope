@@ -1,4 +1,4 @@
-# Sup Bro, I'm Erlang Andriyanputra👋
+# Hi There, I'm Erlang Andriyanputra👋
 
 ![Erlang Andriyanputra](img/banner.png)
 ![Hello? - Clairo, Rejjie Snow](img/spotify2.png)
