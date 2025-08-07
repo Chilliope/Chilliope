@@ -16,6 +16,7 @@
 - ✏️ SDN Sungai Jingah 6 Banjarmasin (2013 - 2019)
 - 🖋️ SMPN 27 Banjarmasin (2019 - 2022)
 - 💻 SMKN 2 Banjarmasin (2022 - 2025)
+- 🖥️ Politeknik Negeri Banjarmasin (2025 - Present)
 
 
 
