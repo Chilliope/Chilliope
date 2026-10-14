@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="90%" align="center">
+<td width="50%" align="center">
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga — Main Banner">
 
@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr>
-<td width="10%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
 <img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
 
