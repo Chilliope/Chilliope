@@ -37,41 +37,30 @@
 <!-- ==================== MUSIC PLAYER ==================== -->
 
 <table>
-<tr>
-<td colspan="2">
-
-<sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
-
-</td>
-</tr>
-<tr>
-<td width="42%" valign="middle" colspan="2">
-
-<left>
-<img src="" width="100%" alt="Hello? music artwork placeholder">
-</left>
-
-<right>
-<strong>Hello?</strong><br>
-<sub>Clairo, Rejjie Snow</sub>
-
-
-<br><br>
-
-<code>▶ ━━━━━●━━━━━━━━ ♪</code>
-
-<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
-
-<br><br>
-
-<sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
-</right>
-
-</tr>
-</table>
-
-</td>
-</tr>
+  <tr>
+    <td colspan="2">
+      <sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
+    </td>
+    <td width="62%" valign="middle">
+      <h3>Hello?</h3>
+      <sub>Clairo, Rejjie Snow</sub>
+      <br><br>
+      <sub>♡ &nbsp; Current favorite</sub>
+      <br><br>
+      <code>▶ ━━━━━●━━━━━━━━ ♪</code>
+      <br>
+      <sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
+      <br><br>
+      <p align="center">
+        <sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
