@@ -52,11 +52,13 @@
 <td width="58%" valign="middle">
 
 <div style="display: flex;">
-<img src="img/clairo.jpg" width="20%" alt="Hello? music artwork placeholder">
-<div>
-<strong>Hello?</strong><br>
-<sub>Clairo, Rejjie Snow</sub>
-</div>
+    <div>
+        <img src="img/clairo.jpg" width="20%" alt="Hello? music artwork placeholder">
+    </div>
+    <div>
+        <strong>Hello?</strong><br>
+        <sub>Clairo, Rejjie Snow</sub>
+    </div>
 </div>
 <br><br>
 
