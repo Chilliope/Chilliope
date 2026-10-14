@@ -45,21 +45,16 @@
 </td>
 </tr>
 <tr>
-<!-- <td width="42%" valign="middle">
+<td width="42%" valign="middle" colspan="2>
 
+<img src="" width="100%" alt="Hello? music artwork placeholder">
 
-</td> -->
+</td>
 <td width="58%" valign="middle">
 
-<div style="display: flex;">
-    <div>
-        <img src="img/clairo.jpg" width="20%" alt="Hello? music artwork placeholder">
-    </div>
-    <div>
-        <strong>Hello?</strong><br>
-        <sub>Clairo, Rejjie Snow</sub>
-    </div>
-</div>
+<strong>Hello?</strong><br>
+<sub>Clairo, Rejjie Snow</sub>
+
 <br><br>
 
 <code>▶ ━━━━━●━━━━━━━━ ♪</code>
