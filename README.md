@@ -1,6 +1,4 @@
-# Erlang Andriyanputra
-
-<!-- ==================== HERO ==================== -->
+<!-- ==================== HERO SECTION ==================== -->
 
 <table>
 <tr>
@@ -8,45 +6,33 @@
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
 
-<br>
-
-<sub>仮面ライダークウガ · THE ULTIMATE FORM</sub>
-
 </td>
 <td width="52%" valign="middle">
 
-<sub><code>&gt;_ HELLO THERE,</code></sub>
+<p>
+<code> &gt;_ HELLO THERE, </code>
+</p>
 
-<h1>I'm Erlang<br>Andriyanputra</h1>
+# I'M <span style="color:#e5484d">ERLANG</span> ANDRIYANPUTRA
 
-<strong>Information Systems Student</strong>
+**Information Systems Student · Developer · Tech Enthusiast**
+
+<sub>Building things, learning new technologies, and enjoying the process.</sub>
 
 <br>
-
-<sub>Developer · Tech Enthusiast · Lifelong Learner</sub>
-
-<br><br>
-
-<sub>Building things, exploring technologies, and turning ideas into reality.</sub>
-
-<br><br>
 
 <table>
 <tr>
-<td align="center" width="50%">
-<sub>⌘ FOCUS</sub>
-<br>
+<td align="center">
+<sub>⌘ FOCUS</sub><br>
 <strong>Web Development</strong>
 </td>
-<td align="center" width="50%">
-<sub>◉ STATUS</sub>
-<br>
+<td align="center">
+<sub>▤ STATUS</sub><br>
 <strong>Always Learning</strong>
 </td>
 </tr>
 </table>
-
-<br>
 
 <!-- ==================== MUSIC PLAYER ==================== -->
 
@@ -59,36 +45,25 @@
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="42%" valign="middle">
 
-<img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
+<img src="https://placehold.co/300x300/181818/e5484d?text=Hello%3F" width="100%" alt="Hello? music artwork placeholder">
 
 </td>
-<td width="62%" valign="middle">
+<td width="58%" valign="middle">
 
-<strong>Hello?</strong>
-
-<br>
-
+<strong>Hello?</strong><br>
 <sub>Clairo, Rejjie Snow</sub>
 
 <br><br>
 
-<sub>♡ &nbsp; Current favorite</sub>
+<code>▶ ━━━━━●━━━━━━━━ ♪</code>
+
+<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
 
 <br><br>
 
-<code>▶ ━━━━━●━━━━━━━━</code>
-
-<br>
-
-<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
-
-<br><br>
-
-<p align="center">
 <sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
-</p>
 
 </td>
 </tr>
@@ -100,19 +75,13 @@
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
 ## <code>// TECH STACK</code>
 
 <sub>TOOLS I USE AND WORK WITH</sub>
 
 <table>
 <tr>
-<td width="22%" valign="middle">
-
-<strong>⌘ Languages</strong>
-
-</td>
+<td width="18%"><strong>⌘ Languages</strong></td>
 <td>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -125,14 +94,10 @@
 </td>
 </tr>
 <tr>
-<td valign="middle">
-
-<strong>▣ Frontend</strong>
-
-</td>
+<td><strong>▣ Frontend</strong></td>
 <td>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
@@ -142,26 +107,18 @@
 </td>
 </tr>
 <tr>
-<td valign="middle">
-
-<strong>▤ Backend & Database</strong>
-
-</td>
+<td><strong>▤ Backend & Database</strong></td>
 <td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td valign="middle">
-
-<strong>⚙ Tools & Environment</strong>
-
-</td>
+<td><strong>⚙ Tools & Environment</strong></td>
 <td>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -180,85 +137,35 @@
 
 ---
 
-<!-- ==================== EDUCATION ==================== -->
-
 ## <code>// EDUCATION</code>
 
 <sub>MY ACADEMIC JOURNEY</sub>
 
 <table>
 <tr>
-<td width="22%" valign="middle">
-
-<code>2013 — 2019</code>
-
-</td>
-<td valign="middle">
-
-🏫 &nbsp; **SDN Sungai Jingah 6 Banjarmasin**
-
-<br>
-
-<sub>Elementary School</sub>
-
-</td>
+<td width="20%"><code>2013 – 2019</code></td>
+<td>🏫 &nbsp; **SDN Sungai Jingah 6 Banjarmasin**<br><sub>Elementary School</sub></td>
 </tr>
 <tr>
-<td valign="middle">
-
-<code>2019 — 2022</code>
-
-</td>
-<td valign="middle">
-
-🏫 &nbsp; **SMPN 27 Banjarmasin**
-
-<br>
-
-<sub>Junior High School</sub>
-
-</td>
+<td><code>2019 – 2022</code></td>
+<td>🏫 &nbsp; **SMPN 27 Banjarmasin**<br><sub>Junior High School</sub></td>
 </tr>
 <tr>
-<td valign="middle">
-
-<code>2022 — 2025</code>
-
-</td>
-<td valign="middle">
-
-🏫 &nbsp; **SMKN 2 Banjarmasin**
-
-<br>
-
-<sub>Vocational High School</sub>
-
-</td>
+<td><code>2022 – 2025</code></td>
+<td>🏫 &nbsp; **SMKN 2 Banjarmasin**<br><sub>Vocational High School</sub></td>
 </tr>
 <tr>
-<td valign="middle">
-
-<code>2025 — Present</code>
-
-</td>
-<td valign="middle">
-
-🎓 &nbsp; **Politeknik Negeri Banjarmasin**
-
-<br>
-
-<sub>Sistem Informasi Kota Cerdas</sub>
-
-</td>
+<td><code>2025 – Present</code></td>
+<td>🎓 &nbsp; **Politeknik Negeri Banjarmasin**<br><sub>Sistem Informasi Kota Cerdas</sub></td>
 </tr>
 </table>
 
 ---
 
 <p align="center">
-<sub>「 FOR THE SMILES OF PEOPLE, I WILL FIGHT. 」</sub>
-<br><br>
-<strong>KAMEN RIDER KUUGA</strong>
+<sub>FOR THE SMILES OF PEOPLE, I WILL FIGHT.</sub>
 <br>
+<strong>仮面ライダークウガ · KAMEN RIDER KUUGA</strong>
+<br><br>
 <sub>© Erlang Andriyanputra · Built with curiosity.</sub>
 </p>
