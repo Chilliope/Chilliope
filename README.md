@@ -1,4 +1,4 @@
-<!-- ==================== HERO SECTION ==================== -->
+ <!-- ==================== HERO SECTION ==================== -->
 
 <table>
 <tr>
@@ -6,61 +6,90 @@
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
 
+<br>
+
+<sub>仮面ライダークウガ · KAMEN RIDER KUUGA</sub>
+
 </td>
 <td width="52%" valign="middle">
 
-<p>
-<code> &gt;_ HELLO THERE, </code>
-</p>
+<p><code>&gt;_ HELLO THERE,</code></p>
 
-# I'M <span style="color:#e5484d">ERLANG</span> ANDRIYANPUTRA
+<h1>I'M ERLANG<br>ANDRIYANPUTRA</h1>
 
-**Information Systems Student · Developer · Tech Enthusiast**
+<strong>Information Systems Student · Developer · Tech Enthusiast</strong>
+
+<br><br>
 
 <sub>Building things, learning new technologies, and enjoying the process.</sub>
 
-<br>
+<br><br>
 
 <table>
 <tr>
-<td align="center">
-<sub>⌘ FOCUS</sub><br>
+<td align="center" width="50%">
+<sub>⌘ FOCUS</sub>
+<br>
 <strong>Web Development</strong>
 </td>
-<td align="center">
-<sub>▤ STATUS</sub><br>
+<td align="center" width="50%">
+<sub>▤ STATUS</sub>
+<br>
 <strong>Always Learning</strong>
 </td>
 </tr>
 </table>
 
+<br>
+
 <!-- ==================== MUSIC PLAYER ==================== -->
 
 <table>
-  <tr>
-    <td colspan="2">
-      <sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="middle" align="center">
-      <img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
-    </td>
-    <td width="62%" valign="middle">
-      <h3>Hello?</h3>
-      <sub>Clairo, Rejjie Snow</sub>
-      <br><br>
-      <sub>♡ &nbsp; Current favorite</sub>
-      <br><br>
-      <code>▶ ━━━━━●━━━━━━━━ ♪</code>
-      <br>
-      <sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
-      <br><br>
-      <p align="center">
-        <sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td colspan="2">
+
+<sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
+
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle" align="center">
+
+<img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
+
+</td>
+<td width="62%" valign="middle">
+
+<strong>Hello?</strong>
+
+<br>
+
+<sub>Clairo, Rejjie Snow</sub>
+
+<br><br>
+
+<sub>♡ &nbsp; Current favorite</sub>
+
+<br><br>
+
+<code>▶ ━━━━━●━━━━━━━━</code>
+
+<br>
+
+<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
+
+<br><br>
+
+<p align="center">
+<sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 ---
