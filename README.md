@@ -52,6 +52,7 @@
 <td width="58%" valign="middle">
 
 <img src="" width="100%" alt="Hello? music artwork placeholder">
+<br>
 <strong>Hello?</strong><br>
 <sub>Clairo, Rejjie Snow</sub>
 
