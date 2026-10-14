@@ -45,13 +45,13 @@
 </td>
 </tr>
 <tr>
-<td width="42%" valign="middle">
+<!-- <td width="42%" valign="middle">
 
-<img src="" width="100%" alt="Hello? music artwork placeholder">
 
-</td>
+</td> -->
 <td width="58%" valign="middle">
 
+<img src="" width="100%" alt="Hello? music artwork placeholder">
 <strong>Hello?</strong><br>
 <sub>Clairo, Rejjie Snow</sub>
 
