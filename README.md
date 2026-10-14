@@ -1,7 +1,7 @@
 # Erlang Andriyanputra
 
 <p align="center">
-  <img src="img/kuuga.png" alt="Kamen Rider Kuuga Artwork" width="240">
+  <img src="img/kuuga.jpg" alt="Kamen Rider Kuuga Artwork" width="240">
 </p>
 
 <p align="center">
