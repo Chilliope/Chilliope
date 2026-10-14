@@ -45,7 +45,7 @@
 </td>
 </tr>
 <tr>
-<td width="42%" valign="middle" colspan="2>
+<td width="42%" valign="middle">
 
 <img src="" width="100%" alt="Hello? music artwork placeholder">
 
