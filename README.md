@@ -7,7 +7,7 @@
       <p align="center">
         <strong>⚡ KAMEN RIDER KUUGA</strong>
         <br>
-        <sub>THE ULTIMATE FORM</sub>
+        <sub>THE MIGHTY FORM</sub>
       </p>
     </td>
     <td width="52%" valign="top">
