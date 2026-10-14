@@ -47,13 +47,14 @@
 <tr>
 <td width="42%" valign="middle" colspan="2">
 
+<left>
 <img src="" width="100%" alt="Hello? music artwork placeholder">
+</left>
 
-</td>
-<td width="58%" valign="middle">
-
+<right>
 <strong>Hello?</strong><br>
 <sub>Clairo, Rejjie Snow</sub>
+
 
 <br><br>
 
@@ -64,8 +65,8 @@
 <br><br>
 
 <sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
+</right>
 
-</td>
 </tr>
 </table>
 
