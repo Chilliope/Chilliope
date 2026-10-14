@@ -4,7 +4,7 @@
 <tr>
 <td width="48%" valign="middle" align="center">
 
-<img src="img/kuuga.png" width="100%" alt="Kamen Rider Kuuga">
+<img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
 
 </td>
 <td width="52%" valign="middle">
