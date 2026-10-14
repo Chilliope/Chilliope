@@ -2,37 +2,37 @@
 
 <table>
 <tr>
-<td width="48%" valign="middle" align="center">
+<td width="52%" valign="middle" align="center">
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
 
 </td>
-<td width="52%" valign="middle">
+<td width="48%" valign="middle">
 
-<p>
-<code> &gt;_ HELLO THERE, </code>
-</p>
+<p><code>&gt;_ HELLO THERE,</code></p>
 
-# I'M <span style="color:#e5484d">ERLANG</span> ANDRIYANPUTRA
+<h1>I'M ERLANG<br>ANDRIYANPUTRA</h1>
 
-**Information Systems Student · Developer · Tech Enthusiast**
+<p><strong>Information Systems Student<br>Developer · Tech Enthusiast</strong></p>
 
-<sub>Building things, learning new technologies, and enjoying the process.</sub>
+<p><sub>Building things, learning new technologies, and enjoying the process.</sub></p>
 
 <br>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <sub>⌘ FOCUS</sub><br>
 <strong>Web Development</strong>
 </td>
-<td align="center">
+<td align="center" width="50%">
 <sub>▤ STATUS</sub><br>
 <strong>Always Learning</strong>
 </td>
 </tr>
 </table>
+
+<br>
 
 <!-- ==================== MUSIC PLAYER ==================== -->
 
@@ -45,25 +45,36 @@
 </td>
 </tr>
 <tr>
-<td width="42%" valign="middle">
+<td width="38%" valign="middle" align="center">
 
-<img src="img/clairo.jpg" width="20%" alt="Hello? music artwork placeholder">
+<img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo and Rejjie Snow">
 
 </td>
-<td width="58%" valign="middle">
+<td width="62%" valign="middle">
 
-<strong>Hello?</strong><br>
+<strong>Hello?</strong>
+
+<br>
+
 <sub>Clairo, Rejjie Snow</sub>
 
 <br><br>
 
-<code>▶ ━━━━━●━━━━━━━━ ♪</code>
-
-<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
+<sub>♡ &nbsp; Favorite track</sub>
 
 <br><br>
 
-<sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
+<code>▶ ━━━━━●━━━━━━━━</code>
+
+<br>
+
+<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
+
+<br><br>
+
+<p align="center">
+<sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ⏵ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
+</p>
 
 </td>
 </tr>
