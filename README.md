@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="45%" valign="middle" align="center">
+<td width="100%" valign="middle" align="center">
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
 
@@ -35,49 +35,7 @@
 
 <br><br>
 
-<!-- ==================== COMPACT MUSIC PLAYER ==================== -->
 
-<table>
-<tr>
-<td colspan="2">
-<sub>🔴 NOW PLAYING</sub>
-</td>
-</tr>
-<tr>
-<td width="30%" valign="middle">
-
-<img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
-
-</td>
-<td width="70%" valign="middle">
-
-<strong>Hello?</strong>
-
-<br>
-
-<sub>Clairo, Rejjie Snow</sub>
-
-<br><br>
-
-<code>▶ ━━━●━━━━━━━━</code>
-
-<br>
-
-<sub>1:42 ───── 4:19</sub>
-
-<br><br>
-
-<sub>⇄ &nbsp; |◀ &nbsp; ▶ &nbsp; ▶| &nbsp; ↻</sub>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
----
 
 ## <code>// TECH STACK</code>
 
