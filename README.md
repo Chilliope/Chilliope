@@ -1,33 +1,46 @@
-# ⚡ Erlang Andriyanputra
+# Erlang Andriyanputra
 
-<p align="center">
-  <img src="img/kuuga.jpg" alt="Kamen Rider Kuuga" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="48%" valign="top">
+      <img src="img/kuuga.jpg" alt="Kamen Rider Kuuga" width="100%">
+      <p align="center">
+        <strong>⚡ KAMEN RIDER KUUGA</strong>
+        <br>
+        <sub>THE ULTIMATE FORM</sub>
+      </p>
+    </td>
+    <td width="52%" valign="top">
 
-<p align="center">
-  <samp>INFORMATION SYSTEMS STUDENT · DEVELOPER · TECH ENTHUSIAST</samp>
-</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  Building things, exploring technologies, and learning something new every day.
-</p>
+**Erlang Andriyanputra**
 
-<p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-00ADD8?style=for-the-badge" alt="Web Development">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-2EA44F?style=for-the-badge" alt="Always Learning">
-</p>
+Information Systems Student  
+Developer · Tech Enthusiast
+
+I'm a student at Politeknik Negeri Banjarmasin, interested in web development, software engineering, and exploring new technologies.
+
+- 🎓 Sistem Informasi Kota Cerdas
+- 💻 Focused on web development
+- ⚡ Always learning and building
 
 ---
 
-## 👨‍💻 About Me
+### 🎧 Currently Listening
 
-- 🎓 Student of **Sistem Informasi Kota Cerdas** at Politeknik Negeri Banjarmasin.
-- 💻 Interested in web development and software engineering.
-- 🛠️ Enjoy exploring new tools, building projects, and solving problems.
-- ⚡ Inspired by Kamen Rider Kuuga: keep moving forward and protect the smiles of others.
+<img src="img/clairo.jpg" alt="Hello? — Clairo, Rejjie Snow" width="90" align="left">
+
+**Hello?**  
+Clairo, Rejjie Snow
+
+<sub>♫ On repeat</sub>
+
+<br clear="left">
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,23 +94,8 @@
 
 ---
 
-## 🎧 Currently Listening
-
-<p>
-  <img src="img/clairo.jpg" alt="Hello? cover art" width="110" align="left">
-  <strong>Hello?</strong><br>
-  Clairo, Rejjie Snow<br>
-  <sub>On repeat 🎵</sub>
-</p>
-
-<br clear="left">
-
----
-
 <p align="center">
   <i>“For the smiles of people, I will fight.”</i>
   <br>
-  <strong>Kamen Rider Kuuga</strong>
-  <br><br>
-  <sub>Thanks for stopping by! ⚡</sub>
+  <strong>Kamen Rider Kuuga ⚡</strong>
 </p>
