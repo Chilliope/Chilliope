@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 <img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga — Main Banner">
 
