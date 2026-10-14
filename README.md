@@ -47,7 +47,7 @@
 <tr>
 <td width="42%" valign="middle">
 
-<img src="https://placehold.co/300x300/181818/e5484d?text=Hello%3F" width="100%" alt="Hello? music artwork placeholder">
+<img src="img/clairo.jpg" width="100%" alt="Hello? music artwork placeholder">
 
 </td>
 <td width="58%" valign="middle">
