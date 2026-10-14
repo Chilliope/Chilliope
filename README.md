@@ -1,64 +1,57 @@
- <!-- ==================== HERO SECTION ==================== -->
+<!-- ==================== HERO BANNER ==================== -->
 
 <table>
 <tr>
-<td width="48%" valign="middle" align="center">
+<td width="100%" align="center">
 
-<img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
+<img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga — Main Banner">
 
 <br>
 
-<sub>仮面ライダークウガ · KAMEN RIDER KUUGA</sub>
+<sub>⚡ KAMEN RIDER KUUGA · THE ULTIMATE FORM ⚡</sub>
 
 </td>
-<td width="52%" valign="middle">
+</tr>
+<tr>
+<td align="center">
 
-<p><code>&gt;_ HELLO THERE,</code></p>
+<p><code>&gt;_ HELLO THERE, I'M</code></p>
 
-<h1>I'M ERLANG<br>ANDRIYANPUTRA</h1>
+<h1>ERLANG ANDRIYANPUTRA</h1>
 
 <strong>Information Systems Student · Developer · Tech Enthusiast</strong>
 
 <br><br>
 
-<sub>Building things, learning new technologies, and enjoying the process.</sub>
+<sub>Building things, exploring technologies, and enjoying the process.</sub>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<sub>⌘ FOCUS</sub>
-<br>
-<strong>Web Development</strong>
-</td>
-<td align="center" width="50%">
-<sub>▤ STATUS</sub>
-<br>
-<strong>Always Learning</strong>
+<code>⌘ WEB DEVELOPMENT</code> &nbsp; <code>◉ ALWAYS LEARNING</code>
+
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ==================== MUSIC PLAYER ==================== -->
+<!-- ==================== COMPACT MUSIC PLAYER ==================== -->
 
 <table>
 <tr>
-<td colspan="2">
+<td colspan="3">
 
-<sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
+<sub>🔴 &nbsp; NOW PLAYING</sub>
 
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="16%" valign="middle" align="center">
 
 <img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
 
 </td>
-<td width="62%" valign="middle">
+<td width="54%" valign="middle">
 
 <strong>Hello?</strong>
 
@@ -68,25 +61,20 @@
 
 <br><br>
 
-<sub>♡ &nbsp; Current favorite</sub>
-
-<br><br>
-
-<code>▶ ━━━━━●━━━━━━━━</code>
+<code>▶ ━━━━━●━━━━━━━━━━━━</code>
 
 <br>
 
-<sub>1:42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:19</sub>
+<sub>1:42 &nbsp; ───────────── &nbsp; 4:19</sub>
+
+</td>
+<td width="30%" valign="middle" align="center">
+
+<sub>♡ FAVORITE TRACK</sub>
 
 <br><br>
 
-<p align="center">
-<sub>⇄ &nbsp;&nbsp; |◀ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ▶| &nbsp;&nbsp; ↻</sub>
-</p>
-
-</td>
-</tr>
-</table>
+<strong>⇄ &nbsp; |◀ &nbsp; ▶ &nbsp; ▶| &nbsp; ↻</strong>
 
 </td>
 </tr>
