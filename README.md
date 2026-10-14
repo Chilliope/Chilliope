@@ -38,7 +38,7 @@ Clairo, Rejjie Snow
 
 <br clear="left">
 
-    </td>
+   
   </tr>
 </table>
 
