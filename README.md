@@ -1,57 +1,55 @@
-<!-- ==================== HERO BANNER ==================== -->
+<!-- ==================== HERO SECTION ==================== -->
 
 <table>
 <tr>
-<td width="100%" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga — Main Banner">
+<img src="img/kuuga.jpg" width="100%" alt="Kamen Rider Kuuga">
+
+<sub>⚡ KAMEN RIDER KUUGA ⚡</sub>
+
+</td>
+<td width="55%" valign="middle">
+
+<sub><code>&gt;_ HELLO THERE,</code></sub>
+
+<h1>ERLANG<br>ANDRIYANPUTRA</h1>
+
+<strong>Information Systems Student</strong>
 
 <br>
 
-<sub>⚡ KAMEN RIDER KUUGA · THE ULTIMATE FORM ⚡</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<p><code>&gt;_ HELLO THERE, I'M</code></p>
-
-<h1>ERLANG ANDRIYANPUTRA</h1>
-
-<strong>Information Systems Student · Developer · Tech Enthusiast</strong>
+<sub>Developer · Tech Enthusiast</sub>
 
 <br><br>
 
-<sub>Building things, exploring technologies, and enjoying the process.</sub>
+<sub>Building things, learning new technologies, and enjoying the process.</sub>
 
 <br><br>
 
-<code>⌘ WEB DEVELOPMENT</code> &nbsp; <code>◉ ALWAYS LEARNING</code>
+<code>⌘ WEB DEVELOPMENT</code>
 
-</td>
-</tr>
-</table>
+<br><br>
 
----
+<code>◉ ALWAYS LEARNING</code>
+
+<br><br>
 
 <!-- ==================== COMPACT MUSIC PLAYER ==================== -->
 
 <table>
 <tr>
-<td colspan="3">
-
-<sub>🔴 &nbsp; NOW PLAYING</sub>
-
+<td colspan="2">
+<sub>🔴 NOW PLAYING</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="middle" align="center">
+<td width="30%" valign="middle">
 
 <img src="img/clairo.jpg" width="100%" alt="Hello? — Clairo, Rejjie Snow">
 
 </td>
-<td width="54%" valign="middle">
+<td width="70%" valign="middle">
 
 <strong>Hello?</strong>
 
@@ -61,20 +59,19 @@
 
 <br><br>
 
-<code>▶ ━━━━━●━━━━━━━━━━━━</code>
+<code>▶ ━━━●━━━━━━━━</code>
 
 <br>
 
-<sub>1:42 &nbsp; ───────────── &nbsp; 4:19</sub>
-
-</td>
-<td width="30%" valign="middle" align="center">
-
-<sub>♡ FAVORITE TRACK</sub>
+<sub>1:42 ───── 4:19</sub>
 
 <br><br>
 
-<strong>⇄ &nbsp; |◀ &nbsp; ▶ &nbsp; ▶| &nbsp; ↻</strong>
+<sub>⇄ &nbsp; |◀ &nbsp; ▶ &nbsp; ▶| &nbsp; ↻</sub>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
