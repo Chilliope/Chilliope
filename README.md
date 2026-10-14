@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td>
+<td colspan="2">
 
 <sub>🔴 &nbsp; N O W &nbsp; P L A Y I N G</sub>
 
